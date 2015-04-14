@@ -1,0 +1,11 @@
+{
+  "name": "formbuilder",
+  "version": "1.0.0",
+  "description": "Drag & Drop Form Builder based on React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirko Menegazzo",
+  "license": "ISC"
+}

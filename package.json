@@ -1,11 +1,20 @@
 {
-  "name": "formbuilder",
+  "name": "react-formbuilder",
   "version": "1.0.0",
   "description": "Drag & Drop Form Builder based on React.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirko77/react-formbuilder.git"
+  },
   "author": "Mirko Menegazzo",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "gulp": "^3.8.11",
+    "vinyl-source-stream": "^1.1.0"
+  }
 }
